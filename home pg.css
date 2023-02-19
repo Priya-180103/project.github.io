@@ -3,7 +3,8 @@
     padding: 0;
 }
 .main{
-   background: url(candle.jpg);
+  /* background: url(candle.jpg);*/
+   background: url(https://github.com/Priya-180103/project.github.io/blob/main/candle.jpg);
    background-repeat: no-repeat;
    background-size: 1500px;
    background-position: center;
