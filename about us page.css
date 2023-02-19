@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    padding-top: 20px;
+    font-style: Arial;
+}
+.main{
+    width: 100%;
+    background: url(about\ us\ page\ .jpg) ;
+    background-color: rgb(11, 116, 81);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center;
+    height: 109vh;
+    
+    
+}
